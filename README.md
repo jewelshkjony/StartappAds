@@ -1,10 +1,11 @@
 # StartappAds Extension
 An extension to monetize your application with Startapp (Start.io) ads.
 
-<img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/start.io.png"/>
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/startapp.png"/>
 
 ## What is Start.io?
+
+<img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/start.io.png"/>
 Start.io is a mobile marketing and audience platform that enables mobile application developers and marketers to use artificial intelligence (“AI”) based tools for more efficient, effective and precise mobile marketing and audience targeting. Start.io (formerly StartApp) empowers the mobile app ecosystem and simplifies mobile marketing, audience building and mobile monetization. Start.io's direct integration with over 500,000 monthly active mobile apps provides access to unprecedented levels of global first-party data, which can be leveraged to understand and predict behaviors, identify new opportunities, and fuel growth.
 
 ## Bidding supported with
@@ -48,6 +49,11 @@ Six types of ad available. Set adMode from extension properties.
 Set this function on back pressed event to show ads when user press on back button or back gesture.
 
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/BackPressed.png"/>
+    
+## Load Native Ad
+adsNumber is the number of ads to load. primary and secondary Image Sizes can be the following:0 – for image size 72px X 72px. 1 – for image size 100px X 100px. 2 – for image size 150px X 150px. 3 – for image size 340px X 340px. 4 – for image size 1200px X 628px. 5 – for image size 320px X 480px. 6 – for image size 480px X 320px. Note: Size 5-6 can't be used together with sizes 0-4. Also 0 - 3 are the allowed ad Sizes for Secondary Image Size.
+    
+<img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/Native.png"/>
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-startapp-ads-extension-with-native-ad-4-9-1/35968">com.jewel.startappads.aix</a> (1.61 MB) \
