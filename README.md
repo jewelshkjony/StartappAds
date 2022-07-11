@@ -10,6 +10,9 @@ Start.io is a mobile marketing and audience platform that enables mobile applica
 
 ## Bidding supported with
 <li> Admob
+<li> AppLovin
+<li> IronSource
+<li> MoPub
 
 ## Designer Property
 Turn on test mode to test ads from your application.
