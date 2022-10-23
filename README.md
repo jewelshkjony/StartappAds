@@ -63,8 +63,8 @@ adsNumber is the number of ads to load. primary and secondary Image Sizes can be
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.startappads.aix</a> (1.61 MB) \
-<b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/StartappAds/releases/download/StartAppAds-4.10.2/StartAppAds.apk">StartAppAds.apk</a> \
 <b>SDK Version:</b> 4.10.4\
+<b>Demo Application:</b> <a href="https://github.com/jewelshkjony/StartappAds/releases/download/StartAppAds-4.10.4/StartAppAds.apk">StartAppAds.apk</a> \
 <b>Last amendment:</b> 23 October 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
