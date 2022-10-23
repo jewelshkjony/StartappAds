@@ -8,7 +8,7 @@ An extension to monetize your application with Startapp (Start.io) ads.
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/start.io.png"/>
 Start.io is a mobile marketing and audience platform that enables mobile application developers and marketers to use artificial intelligence (“AI”) based tools for more efficient, effective and precise mobile marketing and audience targeting. Start.io (formerly StartApp) empowers the mobile app ecosystem and simplifies mobile marketing, audience building and mobile monetization. Start.io's direct integration with over 500,000 monthly active mobile apps provides access to unprecedented levels of global first-party data, which can be leveraged to understand and predict behaviors, identify new opportunities, and fuel growth.
 
-## Bidding supported with
+## Supported Mediation
 <li> Admob
 <li> AppLovin
 <li> IronSource
@@ -64,16 +64,16 @@ adsNumber is the number of ads to load. primary and secondary Image Sizes can be
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-startapp-ads-extension-with-native-ad-4-9-1/35968">com.jewel.startappads.aix</a> (1.61 MB) \
 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/StartappAds/releases/download/StartAppAds-4.10.2/StartAppAds.apk">StartAppAds.apk</a> \
-<b>SDK Version:</b> 4.10.2\
-<b>Last amendment:</b> 24 August 2022\
+<b>SDK Version:</b> 4.10.4\
+<b>Last amendment:</b> 23 October 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
 
-<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1">Youtube</a>
+<a href="https://t.me/jewelshkjony" target="_blank">Telegram</a> | <a href="https://wa.me/8801775668913" target="_blank">WhatsApp</a> | <a href="https://fb.com/jewelshkjony" target="_blank">Facebook</a> | <a href="https://m.me/jewelshkjony" target="_blank">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1" target="_blank">Youtube</a>
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (International)
+❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a>
 
-❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
+❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
