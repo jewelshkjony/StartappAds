@@ -60,14 +60,18 @@ Set this function on back pressed event to show ads when user press on back butt
     
 ![blocks (5)](https://user-images.githubusercontent.com/75406851/197385623-ea1427c2-5a5d-4680-bde5-96df2d337579.png)
 
+>## Implementation Guide Video **↓**
+
+[![AdmobAds](http://img.youtube.com/vi/0t3odDep21s/0.jpg)](http://www.youtube.com/watch?v=0t3odDep21s)
+
 # More extensions
 <a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.startappads.aix</a> (1.61 MB) \
-<b>SDK Version:</b> 4.10.6\
+<b>SDK Version:</b> 4.10.7\
 <b>Demo Application:</b> <a href="https://github.com/jewelshkjony/StartappAds/releases/download/StartAppAds-4.10.6/StartAppAds.apk">StartAppAds.apk</a> \
-<b>Last amendment:</b> 31 December 2022\
+<b>Last amendment:</b> 03 Februar 2023\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
