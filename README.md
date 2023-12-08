@@ -79,9 +79,9 @@ Also 0 - 3 are the allowed ad Sizes for Secondary Image Size.
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.startappads.aix</a> (1.32 MB) \
-<b>SDK Version:</b> 4.11.2\
+<b>SDK Version:</b> 4.11.3\
 <b>Demo Application:</b> <a href="https://github.com/jewelshkjony/StartappAds/releases/download/StartAppAds/StartAppAds.apk">StartAppAds.apk</a> \
-<b>Last amendment:</b> 12 November 2023\
+<b>Last amendment:</b> 08 December 2023\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
